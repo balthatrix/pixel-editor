@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# 1442519749601
+
+CACHE:
+index.html
+../reliable-color-picking.json.js
+https://code.jquery.com/jquery-1.11.0.min.js
+
+NETWORK:
+https://*
+http://*
+*
