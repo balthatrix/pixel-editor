@@ -51,9 +51,11 @@ Fork on Github https://github.com/STRd6/pixel-editor/fork
 
 Go to http://danielx.net/editor
 
-Load your fork by clicking "Load Repo" and typing in "<username>/pixel-editor"
+Load your fork by clicking "Load Repo" and typing in "[username]/pixel-editor"
 
 When it loads click "Run" to make sure it works
+
+Click "Auth" to give the editor permissions to look at your github data
 
 Click "New Feature" to start working on a feature branch
 

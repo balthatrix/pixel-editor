@@ -82,7 +82,6 @@ Editor
 
         resize: (size, data) ->
           data ?= self.getSnapshot()
-
           pixelExtent(Size(size))
           {width, height} = pixelExtent()
 
