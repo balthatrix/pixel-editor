@@ -82,7 +82,7 @@ Editor
 
         resize: (size, data) ->
           data ?= self.getSnapshot()
-
+          console.log("here!")
           pixelExtent(Size(size))
           {width, height} = pixelExtent()
 
