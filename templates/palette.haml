@@ -7,8 +7,10 @@
     - activate = -> activeIndex index
     - pressedAt = null
     - mousedown = (e) ->
+      - console.log(e)
       - e.preventDefault()
       - pressedAt = +new Date
+      - activate()
     - click = (e) ->
       - delta = +new Date - pressedAt
       - e.preventDefault() if delta < 350
